@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "738793888029",
+    "project_id": "grocary-flutterapp",
+    "storage_bucket": "grocary-flutterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738793888029:android:3cfbace1c1328b4bb7e9f4",
+        "android_client_info": {
+          "package_name": "com.example.grocaryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738793888029-b0etjirv1eon59hoddrbgobm86aamade.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grocaryapp",
+            "certificate_hash": "866d9b9d1896b182c7cabbfd45889bb37b7b22a4"
+          }
+        },
+        {
+          "client_id": "738793888029-8cjkhqsc7ovd8itamsdhlca4j2d1vpiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq_5VQuv5JNYlg9tyElN701JvO6wlKwYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738793888029-8cjkhqsc7ovd8itamsdhlca4j2d1vpiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
